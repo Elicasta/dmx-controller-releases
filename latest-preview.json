@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVklhQzNkME9HRnVUOUJ3OVovTzR5Tm56c05POVVJYi9RbzZ1ckI1Q2tKTGdmbmZwZkV5aUxuazFRbVFiMzJNbXNvclBmeEg0QkVrMGRmMzlmYmhERkltL0NxWnFnVUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkxMTAwCWZpbGU6THVtYVJpZyBTdGFnZSBQcmV2aWV3LmFwcC50YXIuZ3oKd2ZTazJ3LzY0akVlTHVlblRhbFk5cHJxLzlBU2w4S2VWeS91ay8rWkNuOTFrUnRaR3oxR2pMWlVObzVmUHlKSXZFN3JHZHpxb242KzN0WjRZWjVXRFE9PQo=",
-      "url": "https://api.github.com/repos/Elicasta/dmx-controller-releases/releases/assets/574041915"
+      "url": "https://github.com/Elicasta/dmx-controller-releases/releases/download/preview-v100.0.4-stage-preview/LumaRig.Stage.Preview_100.0.4-stage-preview_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVklhQzNkME9HRnVUOUJ3OVovTzR5Tm56c05POVVJYi9RbzZ1ckI1Q2tKTGdmbmZwZkV5aUxuazFRbVFiMzJNbXNvclBmeEg0QkVrMGRmMzlmYmhERkltL0NxWnFnVUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkxMTAwCWZpbGU6THVtYVJpZyBTdGFnZSBQcmV2aWV3LmFwcC50YXIuZ3oKd2ZTazJ3LzY0akVlTHVlblRhbFk5cHJxLzlBU2w4S2VWeS91ay8rWkNuOTFrUnRaR3oxR2pMWlVObzVmUHlKSXZFN3JHZHpxb242KzN0WjRZWjVXRFE9PQo=",
-      "url": "https://api.github.com/repos/Elicasta/dmx-controller-releases/releases/assets/574041915"
+      "url": "https://github.com/Elicasta/dmx-controller-releases/releases/download/preview-v100.0.4-stage-preview/LumaRig.Stage.Preview_100.0.4-stage-preview_aarch64.app.tar.gz"
     }
   }
 }
