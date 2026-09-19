@@ -1,15 +1,15 @@
 {
-  "version": "100.0.5-stage-preview",
+  "version": "100.0.6-stage-preview",
   "notes": "Automatic preview build from stage-editor-v2. Test here before promoting changes to production LumaRig.",
-  "pub_date": "2026-09-19T04:16:04.221Z",
+  "pub_date": "2026-09-19T04:21:30.599Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVklhQzNkME9HRnZrQjV3U1JycUpXeEY1QlBxdkNzYlhLSng0ZzlOUEc0L1RuZzBFMGVHVE5OSnQ3VGhIYVMvcHRtU2Y0T3pXS2ZyTmhvdkhHSS9CZ3ErVng5WnV3NXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkxMzYwCWZpbGU6THVtYVJpZyBTdGFnZSBQcmV2aWV3LmFwcC50YXIuZ3oKSTNkZE9tK2xVcWszblJmWlRzSU14dXNzcEtRcjdPMTI0VDhSWHRrYSt2OE9pODNjQXlYVVVZMVlodSs3Rk9tMDBsaCtCREdpbDZxRmo2cGdXVmp5Q3c9PQo=",
-      "url": "https://github.com/Elicasta/dmx-controller-releases/releases/download/preview-v100.0.5-stage-preview/LumaRig.Stage.Preview_100.0.5-stage-preview_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVklhQzNkME9HRmhYQis1Wms5cnJseDRTQktzd0kxNUFPZlNIdTU1MG5RNzFEb2xYTVdZUEtKcTJlSjlYVTRIb1UvMmhPUU5wdzNiUlF4L1poejRUMHcwWlVLMmNlZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkxNjg1CWZpbGU6THVtYVJpZyBTdGFnZSBQcmV2aWV3LmFwcC50YXIuZ3oKNG1WMUFQNkJjbktyRFRHYkFNZVhHSFZkdU56aTJ5VlJaV3ppcFRJN08wOGlVMURHaWpFVjlsNHBhMi9YM0hiT2kvY2YwZzlrNlYyeFV2OVFmUi9ORGc9PQo=",
+      "url": "https://github.com/Elicasta/dmx-controller-releases/releases/download/preview-v100.0.6-stage-preview/LumaRig.Stage.Preview_100.0.6-stage-preview_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVklhQzNkME9HRnZrQjV3U1JycUpXeEY1QlBxdkNzYlhLSng0ZzlOUEc0L1RuZzBFMGVHVE5OSnQ3VGhIYVMvcHRtU2Y0T3pXS2ZyTmhvdkhHSS9CZ3ErVng5WnV3NXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkxMzYwCWZpbGU6THVtYVJpZyBTdGFnZSBQcmV2aWV3LmFwcC50YXIuZ3oKSTNkZE9tK2xVcWszblJmWlRzSU14dXNzcEtRcjdPMTI0VDhSWHRrYSt2OE9pODNjQXlYVVVZMVlodSs3Rk9tMDBsaCtCREdpbDZxRmo2cGdXVmp5Q3c9PQo=",
-      "url": "https://github.com/Elicasta/dmx-controller-releases/releases/download/preview-v100.0.5-stage-preview/LumaRig.Stage.Preview_100.0.5-stage-preview_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVklhQzNkME9HRmhYQis1Wms5cnJseDRTQktzd0kxNUFPZlNIdTU1MG5RNzFEb2xYTVdZUEtKcTJlSjlYVTRIb1UvMmhPUU5wdzNiUlF4L1poejRUMHcwWlVLMmNlZmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkxNjg1CWZpbGU6THVtYVJpZyBTdGFnZSBQcmV2aWV3LmFwcC50YXIuZ3oKNG1WMUFQNkJjbktyRFRHYkFNZVhHSFZkdU56aTJ5VlJaV3ppcFRJN08wOGlVMURHaWpFVjlsNHBhMi9YM0hiT2kvY2YwZzlrNlYyeFV2OVFmUi9ORGc9PQo=",
+      "url": "https://github.com/Elicasta/dmx-controller-releases/releases/download/preview-v100.0.6-stage-preview/LumaRig.Stage.Preview_100.0.6-stage-preview_aarch64.app.tar.gz"
     }
   }
 }
